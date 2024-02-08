@@ -1,0 +1,67 @@
+nav {
+    background-color: #003580;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+nav ul li a:hover {
+    color: #ffd700;
+}
+#home {
+    text-align: center;
+    padding: 50px;
+    background-color: #f2f2f2;
+}
+
+#home h1 {
+    font-size: 36px;
+    color: #003580;
+}
+
+#home p {
+    font-size: 18px;
+    color: #555;
+}
+
+#home ul {
+    text-align: left;
+    margin-top: 20px;
+}
+
+#home ul li {
+    list-style-type: disc;
+    font-size: 16px;
+    color: #333;
+}
+#form {
+    padding: 50px;
+    background-color: #fff;
+}
+
+#form h2 {
+    font-size: 28px;
+    color: #003580;
+}
+
+#form p {
+    font-size: 18px;
+    color: #555;
+}
+
+/* Add styles for form elements here */
